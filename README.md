@@ -5,7 +5,7 @@
 
 ## Why open source it?
 
-I original released the crack with VMProtect on it to stop people from hex-editing the NCU, but to be honest I just stopped caring.
+I originally released the crack with VMProtect on it to stop people from hex-editing the NCU, but to be honest I just stopped caring.
 
 Feel free to set the NCU to your name, do whatever you'd like, just preferably don't go around telling people that it's all your work.
 
